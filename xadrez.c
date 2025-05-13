@@ -10,8 +10,8 @@ int main() {
 
     // Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
     int casasTorre = 5;
-    int casasBispo = 4;
-    int casasRainha = 3;
+    int casasBispo = 5;
+    int casasRainha = 8;
 
     // Nível Novato - Movimentação das Peças
 
